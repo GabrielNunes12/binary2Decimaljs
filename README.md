@@ -11,11 +11,17 @@ English
 The first project. Built with ❤︎ by Gabriel Nunes
 
 📌 Table of Contents
+
 Technologies
-Features
-How to Run
-Found a bug? Missing a specific feature?
-Contributing
+
+Features <br/>
+
+How to Run <br/>
+
+Found a bug? Missing a specific feature? <br/>
+
+Contributing <br/>
+
 License
 
 💻 Technologies <br/>
