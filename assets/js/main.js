@@ -13,7 +13,6 @@ form.addEventListener('submit', (event) => {
   if(resultSubmit < 0) return;
 
   function numberParsed (number) {
-    console.log(parseInt(number,2));
     return parseInt(number, 2).toString(10);
   }
   
