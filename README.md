@@ -23,7 +23,7 @@ This project was made using the follow technologies:
 
 Javascript <br/>
 HTML <br/>
-CSS <br/>
+Bootstrap4 <br/>
 
 🚀 Features <br/>
 
