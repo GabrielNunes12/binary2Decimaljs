@@ -29,7 +29,6 @@ Bootstrap4 <br/>
 
 Binary2Decimal. <br/>
 
-Help to get up of chair and make some exercise.
 
 👷 How to run <br/>
 # Clone Repository <br/>
